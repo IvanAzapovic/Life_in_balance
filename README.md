@@ -1,6 +1,6 @@
 # Life Balance - A Comprehensive Health Management Solution
 
-# <img src=["Pictures\Screenshot 2025-04-10 182902.png](https://github.com/IvanAzapovic/Life_in_balance/blob/main/Pictures/Screenshot%202025-04-10%20182902.png)" alt="drawing" width="35"/>&nbsp; **Life Balance** ✨
+# <img src=["Pictures\Screenshot 2025-04-10 182902.png" alt="drawing" width="35"/>&nbsp; **Life Balance** ✨
 
 
 <img src="Multimedia\presentation.png" alt="drawing" width="1000"/>
