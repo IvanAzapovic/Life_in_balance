@@ -1,10 +1,5 @@
 # Life Balance - A Comprehensive Health Management Solution
 
-# <img src=["Pictures\Screenshot 2025-04-10 182902.png" alt="drawing" width="35"/>&nbsp; **Life Balance** ✨
-
-
-<img src="Multimedia\presentation.png" alt="drawing" width="1000"/>
-
 ## Overview
 
 The Wellness App is designed to promote balanced and healthy living by providing users with tools to manage their health effectively. This app addresses the challenge of maintaining a balanced lifestyle, offering practical wellness solutions tailored to individual needs. Leveraging data-driven insights, the app empowers users with personalized nutritional advice and exercise suggestions.
