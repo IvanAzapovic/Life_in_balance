@@ -1,4 +1,4 @@
-# Life Balance - A Comprehensive Health Management Solution
+# Life in Balance - A Comprehensive Health Management Solution
 
 ## Overview
 
