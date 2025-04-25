@@ -1,10 +1,7 @@
 # Life in Balance - A Comprehensive Health Management Solution
 
 # <img src="Pictures\Screenshot 2025-04-10 182902.png" alt="drawing" width="35"/>&nbsp; **Life in balance** ✨
-# <img src="Pictures\Screenshot 2025-04-10 182902.png" alt="drawing" width="35"/>&nbsp; **Life in balance** ✨
 
-
-<img src="Pictures\Screenshot 2025-04-10 182902.png" alt="drawing" width="1000"/>
 <img src="Pictures\Screenshot 2025-04-10 182902.png" alt="drawing" width="1000"/>
 
 ## Overview
