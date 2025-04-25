@@ -19,14 +19,6 @@ To ensure efficient data management and retrieval, our application uses a carefu
 
 The ERD highlights the relationships between the `users`, `user_nutrition_data`, and `user_exercises_data` tables, clarifying how user information is connected within our system.
 
-## Database Structure
-
-To ensure efficient data management and retrieval, our application uses a carefully designed database schema as illustrated in the Entity-Relationship Diagram (ERD) below:
-
-![ERD Diagram](EER_diagram.png)
-
-The ERD highlights the relationships between the `users`, `user_nutrition_data`, and `user_exercises_data` tables, clarifying how user information is connected within our system.
-
 
 
 ## Features
