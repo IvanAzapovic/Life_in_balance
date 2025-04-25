@@ -1,8 +1,10 @@
 # Life in Balance - A Comprehensive Health Management Solution
 
 # <img src="Pictures\Screenshot 2025-04-10 182902.png" alt="drawing" width="35"/>&nbsp; **Life in balance** ✨
+# <img src="Pictures\Screenshot 2025-04-10 182902.png" alt="drawing" width="35"/>&nbsp; **Life in balance** ✨
 
 
+<img src="Pictures\Screenshot 2025-04-10 182902.png" alt="drawing" width="1000"/>
 <img src="Pictures\Screenshot 2025-04-10 182902.png" alt="drawing" width="1000"/>
 
 ## Overview
@@ -16,6 +18,16 @@ To ensure efficient data management and retrieval, our application uses a carefu
 ![ERD Diagram](Pictures\EER_diagram.png)
 
 The ERD highlights the relationships between the `users`, `user_nutrition_data`, and `user_exercises_data` tables, clarifying how user information is connected within our system.
+
+## Database Structure
+
+To ensure efficient data management and retrieval, our application uses a carefully designed database schema as illustrated in the Entity-Relationship Diagram (ERD) below:
+
+![ERD Diagram](EER_diagram.png)
+
+The ERD highlights the relationships between the `users`, `user_nutrition_data`, and `user_exercises_data` tables, clarifying how user information is connected within our system.
+
+
 
 ## Features
 
