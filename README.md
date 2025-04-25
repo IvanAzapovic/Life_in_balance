@@ -9,6 +9,14 @@
 
 The Wellness App is designed to promote balanced and healthy living by providing users with tools to manage their health effectively. This app addresses the challenge of maintaining a balanced lifestyle, offering practical wellness solutions tailored to individual needs. Leveraging data-driven insights, the app empowers users with personalized nutritional advice and exercise suggestions.
 
+## Database Structure
+
+To ensure efficient data management and retrieval, our application uses a carefully designed database schema as illustrated in the Entity-Relationship Diagram (ERD) below:
+
+![ERD Diagram](EER_diagram.png)
+
+The ERD highlights the relationships between the `users`, `user_nutrition_data`, and `user_exercises_data` tables, clarifying how user information is connected within our system.
+
 ## Features
 
 - **Personalized Wellness Suggestions:**
