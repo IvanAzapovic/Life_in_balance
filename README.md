@@ -13,7 +13,7 @@ The Wellness App is designed to promote balanced and healthy living by providing
 
 To ensure efficient data management and retrieval, our application uses a carefully designed database schema as illustrated in the Entity-Relationship Diagram (ERD) below:
 
-![ERD Diagram](EER_diagram.png)
+![ERD Diagram]([EER_diagram.png](https://github.com/IvanAzapovic/Life_in_balance/blob/main/Pictures/EER_diagram.png))
 
 The ERD highlights the relationships between the `users`, `user_nutrition_data`, and `user_exercises_data` tables, clarifying how user information is connected within our system.
 
